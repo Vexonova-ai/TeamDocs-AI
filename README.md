@@ -16,6 +16,15 @@
 
 </div>
 
+---
+
+### 🎬 Demo
+
+[![Watch the demo](https://img.shields.io/badge/▶️_Watch_Demo-LinkedIn-blue?logo=linkedin)](https://lnkd.in/p/eW-iBsWY)
+
+---
+
+
 <details>
 <summary><b>📑 Table of contents</b></summary>
 
